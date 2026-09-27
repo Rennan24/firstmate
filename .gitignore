@@ -1,6 +1,5 @@
 projects/
 state/
-data/
 scratchpad*
 .no-mistakes/
 .lavish/
@@ -13,3 +12,7 @@ __pycache__/
 config/
 
 .tools/
+
+# Pix Agent
+.pi/
+.pi-lens/
